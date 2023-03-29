@@ -20,8 +20,8 @@ Workshop 2 journées sur Azure Container Apps
 -   [Lab 9](/Lab_9/README.md) : Pipeline _revisions_
 -   [Lab 10](/Lab_10/README.md) : Environnement privé
 -   [Lab 11](/Lab_11/README.md) : Déploiement via Terraform
+-   [Lab 12](/Lab_12/README.md) : Déploiement via Terraform
 -   Synthèse et tour de table
-
 
 
 ## Informations utiles
