@@ -76,6 +76,8 @@ Le single Sign On avec Azure Active Directory devrait fonctionner et permet d'ar
 
 Compléter ensuite la configuration de votre instance Grafana
 
+## Configuration de Grafana
+
 <img width='1024' src='../images/Lab_12/grafana1.png'/><br>
 
 <img width='1024' src='../images/Lab_12/grafana2.png'/><br>
