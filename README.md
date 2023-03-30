@@ -40,3 +40,6 @@ https://www.linkedin.com/pulse/under-surface-azure-container-apps-christophe-par
 
 Lab avec application Java
 https://quarkus.io/quarkus-workshops/super-heroes/index-azure.html
+
+Lab avec dapr
+https://github.com/Azure/reddog-containerapps
