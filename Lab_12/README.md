@@ -95,6 +95,9 @@ Importer le modèle dashboard : https://grafana.com/grafana/dashboards/16592-azu
 <img width='1024' src='../images/Lab_12/grafana7.png'/><br>
 
 
+Refaire l'opération de dashboard avec un second dashboard proposé par l'équipe Azure Container Apps
+https://grafana.com/grafana/dashboards/16591-azure-container-apps-aggregate-view/
+
 Configuration de Grafana, Lecture additionnelle : https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/grafana-plugin 
 
 
