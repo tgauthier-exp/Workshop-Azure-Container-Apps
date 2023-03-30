@@ -27,7 +27,7 @@ jobs:
       - name: Log in to container registry
         uses: docker/login-action@v1
         with:
-          registry: todelete.azurecr.io
+          registry: tgracrlab6.azurecr.io
           username: ${{ secrets.HELLO_REGISTRY_USERNAME }}
           password: ${{ secrets.HELLO_REGISTRY_PASSWORD }}
 
@@ -35,7 +35,7 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: todelete.azurecr.io/hello:${{ github.sha }}
+          tags: tgracrlab6.azurecr.io/hello:${{ github.sha }}
           file: ./Lab_6/App/Dockerfile
           context: ./Lab_6/App/
 
